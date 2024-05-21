@@ -1,0 +1,17 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+body::-webkit-scrollbar {
+  background: white;
+  width: 8px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: rgb(118, 118, 118);
+  border-radius: 4px;
+}

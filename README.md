@@ -1,1 +1,1 @@
-# CodeForces-Profile-Analyser
+# Codeforces Profile Analyzer
